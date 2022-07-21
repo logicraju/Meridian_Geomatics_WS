@@ -10,5 +10,5 @@
      (Allow non-super users to capture packets)'
 
  3. Set the name of lidar as XT32 in launch file
-    >src/HesaiLidar_General_ROS/launch/hesai_lidar.launch
+    >Refer: src/HesaiLidar_General_ROS/launch/hesai_lidar.launch
    
