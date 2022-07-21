@@ -1,0 +1,2 @@
+HesaiLidar_General_ROS
+-DCATKIN_DEVEL_PREFIX=/home/rajesh/ROS_Workspaces/Meridian_Geomatics_WS/devel -DCMAKE_INSTALL_PREFIX=/home/rajesh/ROS_Workspaces/Meridian_Geomatics_WS/install -G Unix Makefiles
