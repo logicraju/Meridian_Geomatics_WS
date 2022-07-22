@@ -1,6 +1,0 @@
-{
-    "python.autoComplete.extraPaths": [
-        "/home/rajesh/ROS_Workspaces/Meridian_Geomatics_WS/devel/lib/python3/dist-packages",
-        "/opt/ros/noetic/lib/python3/dist-packages"
-    ]
-}
