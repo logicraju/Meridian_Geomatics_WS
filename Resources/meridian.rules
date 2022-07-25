@@ -1,0 +1,2 @@
+SUBSYSTEM=="tty", SUBSYSTEMS=="usb",ATTRS{idVendor}=="0483", ATTRS{idProduct}=="5740", ATTRS{serial}=="0000_6284.124190", MODE="0777",SYMLINK+="gps_imu_main_port"
+SUBSYSTEM=="tty", SUBSYSTEMS=="usb",ATTRS{idVendor}=="0483", ATTRS{idProduct}=="5740", ATTRS{serial}=="2-00_6284.124190", MODE="0777",SYMLINK+="gps_imu_aux_port"

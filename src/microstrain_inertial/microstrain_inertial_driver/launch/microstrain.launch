@@ -13,8 +13,8 @@
 
   <!-- Add some old launch parameters for backwards compatibility -->
   <!-- NOTE: These parameters are deprecated and will be removed in a future release. It is strongly recommended to use the new params_file option instead -->
-  <arg name="port"                   default = "/dev/ttyACM0"  doc = "DEPRECATED. Use params_file instead" />
-  <arg name="aux_port"               default = "/dev/ttyACM1"  doc = "DEPRECATED. Use params_file instead"  />
+  <arg name="port"                   default = "/dev/gps_imu_main_port"  doc = "DEPRECATED. Use params_file instead" />
+  <arg name="aux_port"               default = "/dev/gps_imu_aux_port"  doc = "DEPRECATED. Use params_file instead"  />
   <arg name="baudrate"               default = "115200"  doc = "DEPRECATED. Use params_file instead"  />
   <arg name="imu_frame_id"           default = "imu"  doc = "DEPRECATED. Use params_file instead"  />
   <arg name="imu_data_rate"          default = "100"  doc = "DEPRECATED. Use params_file instead"  />
