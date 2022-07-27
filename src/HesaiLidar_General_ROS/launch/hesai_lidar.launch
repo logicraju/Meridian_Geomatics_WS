@@ -5,9 +5,9 @@
 	<arg name="gps_port"  default="10110"/>
 	<arg name="start_angle"  default="0"/>
 	<!--“lidar_type” represents the model of the lidar-->
-	<arg name="lidar_type" default=""/>
+	<arg name="lidar_type" default="PandarXTM"/>
 	<!--"frame_id" represents the id of the point cloud data published to ROS-->
-	<arg name="frame_id" default=""/>
+	<arg name="frame_id" default="PandarXTM"/>
 	<arg name="pcldata_type" default="0"/>
 	<arg name="publish_type" default="points"/>
 	<arg name="timestamp_type" default=""/>
